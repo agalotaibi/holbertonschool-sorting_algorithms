@@ -78,3 +78,4 @@ quick_sort(array, pivot + 1, high)
 # 👩🏻‍💻 Authors
 
 Amaal AlOtaibi
+Alanoud Alsmail
